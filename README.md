@@ -150,11 +150,14 @@ elimine la carpeta public del proyecto y la puse normal con los demas archivos y
 
 
 luego configure el vercel vinvulandolo con git y me quedo la pagina el las 2 plataformas 
+link de versel https://hotel-portal-amazonico.vercel.app
 
 
 
 
 ![Captura de pantalla 2024-12-15 220451](https://github.com/user-attachments/assets/18745f7a-e136-4d82-a5ae-e27e38c00a03)
 ![Captura de pantalla 2024-12-15 220553](https://github.com/user-attachments/assets/3e91a80d-7e9a-486d-86be-6cc2a5fe4764)
+
+
 
 
